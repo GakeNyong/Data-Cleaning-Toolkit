@@ -54,4 +54,4 @@ Data Consolidation and Analysis
 3. Use the sheets as templates for your own projects and data analysis tasks.
 4. Experiment with different formulas, functions, and techniques to learn more.
 
-# Project File Link: [https://docs.google.com/spreadsheets/d/1g-Iryio0C4e2iLOyRe75yEYO1KUrCZFPGm3cEPXNuig/edit?usp=sharing]
+[View Project File](https://docs.google.com/spreadsheets/d/1g-Iryio0C4e2iLOyRe75yEYO1KUrCZFPGm3cEPXNuig/edit?usp=sharing)
